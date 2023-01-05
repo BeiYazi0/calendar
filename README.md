@@ -17,13 +17,13 @@ c语言项目万年历
 ## 效果
 
 主界面
-![image](https://github.com/BeiYazi0/calendar/blob/main/test/main.png)
+![image](https://github.com/BeiYazi0/calendar/blob/main/test/main.PNG)
 
 说明
-![image](https://github.com/BeiYazi0/calendar/blob/main/test/instruction.png)
+![image](https://github.com/BeiYazi0/calendar/blob/main/test/instruction.PNG)
 
 月历
-![image](https://github.com/BeiYazi0/calendar/blob/main/test/month.png)
+![image](https://github.com/BeiYazi0/calendar/blob/main/test/month.PNG)
 
 日历
-![image](https://github.com/BeiYazi0/calendar/blob/main/test/day.png)
+![image](https://github.com/BeiYazi0/calendar/blob/main/test/day.PNG)
